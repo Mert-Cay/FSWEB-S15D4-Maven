@@ -36,6 +36,12 @@
             <version>2.2</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>com.vaadin.external.google</groupId>
+            <artifactId>android-json</artifactId>
+            <version>20240205</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
 
     <build>
